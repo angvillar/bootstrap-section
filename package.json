@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-section",
+  "version": "1.0.0",
+  "description": "bulma section component ported to bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css:watch": "node-sass _section.scss -wo ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angvillar/bootstrap-section.git"
+  },
+  "keywords": [
+    "boostrap",
+    "bulma",
+    "section",
+    "component",
+    "layout",
+    "css",
+    "sass"
+  ],
+  "author": "angvillar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angvillar/bootstrap-section/issues"
+  },
+  "homepage": "https://github.com/angvillar/bootstrap-section#readme",
+  "devDependencies": {}
+}
